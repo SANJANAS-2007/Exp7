@@ -1,2 +1,2 @@
 print("SANJANA S GOWDA")
-print("CSE")
+print("CSE & VVCE")
